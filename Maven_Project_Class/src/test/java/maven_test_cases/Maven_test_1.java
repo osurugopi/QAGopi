@@ -14,7 +14,7 @@ public class Maven_test_1 {
   @Test
   public void Google() {
 	  driver.get("https://www.google.com/");
-	  driver.findElement(By.name("q")).sendKeys("hello");
+	  
   }
   
   @Test
